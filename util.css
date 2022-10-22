@@ -1,0 +1,81 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .button{
+    height: 88px;
+    font-size: 48px;
+    padding: 20px;
+    width: 156px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    align-content: center;
+  }
+  
+  .row{
+    margin: 12px;
+  }
+  
+  .row input{
+    font-size: 51px;
+    margin: -28px;
+    padding: 0px 13px;
+    border: 2px solid black;
+    border-radius: 6px;
+  }
+  
+  .text-center{
+    padding: 9px;
+    text-align: center;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display: flex;
+  }
+  
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .item-center{
+    align-items: center;
+  }
+  
+  .top-button{
+    padding: 2px 6px ;
+  }
+  
+  .equal-to{
+    height: 88px;
+    font-size: 48px;
+    padding: 20px;
+    width: 300px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    align-content: center;
+  }
+  
+  .for-mat{
+    padding: 9px;
+    height: 90px;
+    width: 154px;
+  }
+  
+  .make-small{
+    font-size: 7px;
+    padding: 13px;
+    align-content: center;
+  }
